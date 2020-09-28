@@ -45,4 +45,4 @@ class ArticlesController < ApplicationController
 
 end
 
-#Deletuing articles
+##I3: Tagging
